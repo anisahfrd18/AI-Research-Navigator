@@ -1,0 +1,9 @@
+streamlit==1.50.0
+pdfplumber
+python-docx
+beautifulsoup4
+transformers
+sentence-transformers
+faiss-cpu
+numpy
+requests
